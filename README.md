@@ -87,7 +87,4 @@ One key improvement I plan to explore is dependency-aware task management. The i
 - This would make planning more realistic and prevent premature progress on tasks.
 
 ---
-## License
-MIT License © 2025 Kaiwalya
-
 
